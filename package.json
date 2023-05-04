@@ -1,0 +1,21 @@
+{
+  "name": "tech_meetup_20230602",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iii-inc-co-jp/tech_meetup_20230602.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iii-inc-co-jp/tech_meetup_20230602/issues"
+  },
+  "homepage": "https://github.com/iii-inc-co-jp/tech_meetup_20230602#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
